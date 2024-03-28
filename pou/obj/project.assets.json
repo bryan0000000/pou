@@ -32826,11 +32826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\pou-1\\pou\\pou.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\pou\\pou\\pou.csproj",
       "projectName": "pou",
-      "projectPath": "C:\\Users\\Aluno\\pou-1\\pou\\pou.csproj",
+      "projectPath": "C:\\Users\\Aluno\\pou\\pou\\pou.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\pou-1\\pou\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\pou\\pou\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

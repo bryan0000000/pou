@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pou")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d53d1bfeeaa9182298e705f3a9e9053bb7fb5204")]
 [assembly: System.Reflection.AssemblyProductAttribute("pou")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pou")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
